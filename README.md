@@ -1,4 +1,4 @@
-# 雷雨典 324080203104 24机械1班  https://github.com/lyd960/lyd
+# 张友贵 324085503333
 
 ##bash任务1：系统信息收集
 touch sys-info.sh   #生成脚本
