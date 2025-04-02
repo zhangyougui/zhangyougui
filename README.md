@@ -1,4 +1,4 @@
-# 张友贵 324085503333
+# 张友贵 324085503333   https://github.com/zhangyougui/zhangyougui/blob/main/README.md
 
 ##bash任务1：系统信息收集
 touch sys-info.sh   #生成脚本
